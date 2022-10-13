@@ -1,0 +1,12 @@
+public class Task2 {
+    public static void main(String[] args) {
+        int a = Integer.parseInt(args[0]); // парсит найденные значения(int) из строки
+        int b = Integer.parseInt(args[1]);
+        System.out.println(triArea(a, b));
+    }
+    public static int triArea(int a, int b){
+        int s;
+        s = (a * b) / 2;
+        return s;
+    }
+}
