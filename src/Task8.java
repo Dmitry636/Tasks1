@@ -3,7 +3,6 @@ public class Task8 {
         int a = Integer.parseInt(args[0]);
         int b = Integer.parseInt(args[1]);
         System.out.println(nextEdge(a, b));
-        // тоже самое что и код ниже, но работает без участия пользователя <--
         // System.out.println(nextEdge(8, 10));
         // System.out.println(nextEdge(5, 7));
         // System.out.println(nextEdge(9, 2));

@@ -4,7 +4,6 @@ public class Task3 {
         int cow = Integer.parseInt(args[1]);
         int pig = Integer.parseInt(args[2]);
         System.out.println(animals(ch, cow, pig));
-        // тоже самое что и код ниже, но работает без участия пользователя <--
         // System.out.println(animals(2, 3, 5));
         // System.out.println(animals(1, 2, 3));
         // System.out.println(animals(5, 2, 8));

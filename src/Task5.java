@@ -4,7 +4,6 @@ public class Task5 {
         int a = Integer.parseInt(args[1]);
         int b = Integer.parseInt(args[2]);
         System.out.println(operation(N, a, b));
-        // тоже самое что и код ниже, но работает без участия пользователя <--
         // System.out.println(operation(24, 15, 9));
         // System.out.println(operation(24, 26, 2));
         // System.out.println(operation(15, 11, 11));

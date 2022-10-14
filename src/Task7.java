@@ -2,7 +2,6 @@ public class Task7 {
     public static void main(String[] args) {
         int a = Integer.parseInt(args[0]);
         System.out.println(addUpTo(a));
-        // тоже самое что и код ниже, но работает без участия пользователя <--
         // System.out.println(addUpTo(3));
         // System.out.println(addUpTo(10));
         // System.out.println(addUpTo(7));

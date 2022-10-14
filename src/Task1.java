@@ -3,7 +3,7 @@ public class Task1 {
         int a = Integer.parseInt(args[0]); // парсит(забирает) найденные значения(int) из строки
         int b = Integer.parseInt(args[1]);
         System.out.println(reminder(a, b));
-        // тоже самое что и код ниже, но работает без участия пользователя <--
+        // тоже самое что и код ниже, но работает без участия пользователя (без ввода с консоли)
         // System.out.println(reminder(1, 3));
         // System.out.println(reminder(3, 4));
         // System.out.println(reminder(-9, 45));
